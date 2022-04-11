@@ -1,0 +1,16 @@
+Petar Peric
+4000
+Ivan Ivanovic
+3000
+Nikola Nikolic
+6000
+Milana Milanovic
+5000
+Isidora Sekulic
+9000
+Nadezda Petrovic
+10000
+Vera Blagojevic
+1000
+Milunka Savic
+2000
