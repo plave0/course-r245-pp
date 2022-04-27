@@ -1,10 +1,20 @@
 # sbt project
+Spark/project/project/
+Spark/project/target/
+Spark/target/
+Spark/.bsp
 Scala/project/project/
 Scala/project/target/
 Scala/target/
 Scala/.bsp
 
 # intellij idea
+Spark/*.log
+Spark/*.iml
+Spark/*.ipr
+Spark/*.iws
+Spark/.idea
+
 Scala/*.log
 Scala/*.iml
 Scala/*.ipr
