@@ -1,1 +1,15 @@
-*.pdf
+# sbt project
+Scala/project/project/
+Scala/project/target/
+Scala/target/
+Scala/.bsp
+
+# intellij idea
+Scala/*.log
+Scala/*.iml
+Scala/*.ipr
+Scala/*.iws
+Scala/.idea
+
+# Ostalo
+ProgramskiJezici.pdf
