@@ -8,7 +8,7 @@ object Fakt {
 
     val conf = new SparkConf()
       .setAppName("Fakt")
-      q.setMaster("local[4]")
+      .setMaster("local[4]")
 
     val sc = new SparkContext(conf)
 
